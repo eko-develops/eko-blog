@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "lorem ipsum dolor sit amet, consectetur adip",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "My Second Blog",
+      "body": "lorem ipsum dolor sit amet, consectetur adip. lorem ipsum dolor sit amet, consectetur",
+      "author": "luigi",
+      "id": 2
+    },
+    {
+      "title": "My Third Blog",
+      "body": "lorem ipsum dolor sit amet, consectetur adip. lorem ipsum dolor sit amet, consectetur",
+      "author": "luigi",
+      "id": 3
+    },
+    {
+      "title": "My Fourth Blog",
+      "body": "lorem ipsum dolor sit amet, consectetur adip. lorem ipsum dolor sit amet, consectetur",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "Eko First Blog",
+      "body": "Hello this is my first Blog",
+      "author": "Mario",
+      "id": 5
+    }
+  ]
+}
